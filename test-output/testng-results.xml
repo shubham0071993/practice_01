@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17458" started-at="2022-08-04T11:58:55 IST" finished-at="2022-08-04T11:59:12 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17458" started-at="2022-08-04T11:58:55 IST" finished-at="2022-08-04T11:59:12 IST">
+      <class name="testClasses.KiteLoginTest1">
+        <test-method status="PASS" signature="m1()[pri:0, instance:testClasses.KiteLoginTest1@43bd930a]" name="m1" is-config="true" duration-ms="11166" started-at="2022-08-04T11:58:55 IST" finished-at="2022-08-04T11:59:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="onlyusername()[pri:1, instance:testClasses.KiteLoginTest1@43bd930a]" name="onlyusername" duration-ms="5520" started-at="2022-08-04T11:59:06 IST" finished-at="2022-08-04T11:59:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onlyusername -->
+        <test-method status="PASS" signature="driverClose()[pri:0, instance:testClasses.KiteLoginTest1@43bd930a]" name="driverClose" is-config="true" duration-ms="707" started-at="2022-08-04T11:59:12 IST" finished-at="2022-08-04T11:59:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driverClose -->
+      </class> <!-- testClasses.KiteLoginTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
